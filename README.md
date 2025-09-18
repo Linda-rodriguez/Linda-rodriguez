@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Linda-rodriguez/Linda-rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Linda%20rodriguez&animation=fadeIn" alt="bloque de nombre"/></h1>
 
-Here are some ideas to get you started:
+:maestra: **Los idiomas, me encantan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computador: **Tecnóloga en análisis y desarrollo de software en desarrollo**
+
+:pincel:**La creatividad**
+
+## Contactame
+:email: <lrodrig52914@gmail.com>
+:email: <migomas6@hotmail.com>
