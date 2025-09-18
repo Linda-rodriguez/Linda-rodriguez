@@ -5,10 +5,10 @@
 
 :shipit: **Los idiomas, me encantan**
 
-:computador: **Tecnóloga en análisis y desarrollo de software en desarrollo**
+:desktop_computer: **Tecnóloga en análisis y desarrollo de software en desarrollo**
 
-:pincel: **La creatividad**
+:paintbrush: **La creatividad**
 
-## Contactame
+ :bell:
 :email: <lrodrig52914@gmail.com>
 :email: <migomas6@hotmail.com>
