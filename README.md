@@ -12,3 +12,9 @@
  :bell:
 :email: <lrodrig52914@gmail.com>
 :email: <migomas6@hotmail.com>
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
