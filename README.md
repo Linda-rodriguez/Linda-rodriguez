@@ -16,10 +16,10 @@
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Linda-rodriguez/Linda-rodriguez.github.io](https://github.com/Linda-rodriguez/Linda-rodriguez.github.io)<br>
-2. 📖 Created new wiki page [Home](https://github.com/Linda-rodriguez/miPrimerRepoYei/wiki/Home) in [Linda-rodriguez/miPrimerRepoYei](https://github.com/Linda-rodriguez/miPrimerRepoYei)<br>
-3. ⬆️ Pushed 1 commit(s) to [Linda-rodriguez/Linda-rodriguez](https://github.com/Linda-rodriguez/Linda-rodriguez)<br>
-4. ⬆️ Pushed 1 commit(s) to [Linda-rodriguez/Linda-rodriguez](https://github.com/Linda-rodriguez/Linda-rodriguez)<br>
-5. ⬆️ Pushed 1 commit(s) to [Linda-rodriguez/Linda-rodriguez](https://github.com/Linda-rodriguez/Linda-rodriguez)<br>
+1. ⬆️ Pushed 2 commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
+2. ⬆️ Pushed 3 commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
+3. 🎉 Merged PR [#2](https://github.com/Linda-rodriguez/OtroRepo/pull/2) in [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
+4. 💪 Opened PR [#2](https://github.com/Linda-rodriguez/OtroRepo/pull/2) in [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
+5. ⬆️ Pushed 2 commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:Last_update-->
