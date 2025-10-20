@@ -16,10 +16,5 @@
 ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
-3. 💪 Opened PR [#2](undefined) in [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
-4. ⬆️ Pushed undefined commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Linda-rodriguez/OtroRepo](https://github.com/Linda-rodriguez/OtroRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:Last_update-->
